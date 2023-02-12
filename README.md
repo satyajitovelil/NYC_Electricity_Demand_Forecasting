@@ -1,10 +1,12 @@
 # NYC_Electricity_Demand_Forecasting
 
 ## Project Motivation
-For this Project I wanted to analyze the NYC electrcicty demand enriched using NOAA weather data for NYC whether I could answer the following questions:
+For this Project I wanted to analyze the NYC electricity demand enriched using NOAA weather data for NYC whether I could answer the following questions:
 - What effect does date & time play in influencing daily electricity demand in NYC?
+    - What are the Seasonal (daily, hourly, monthly, etc) patterns in the data?
+    - Do holidays or events play any role?
 - How viable are traditional ML algorithms in forecasting Day Ahead Elctricity Demand?
-- How important are NYC Weather Variables and Holidays as predictors to forecast energy\electricity demand?
+- How important are NYC Weather Variables as predictors to forecast energy\electricity demand?
 
 The above questions demonstrate rapid-prototypying and backetesting of ML algorithms for use in electrcicity demand forecasting. This helps businesses optimise resource utilisation and efficient usage of energy. An example of the use of such optimisation could be found in scheduling electrcicty supply by electrcicty regulators\operators\retailers.
 
