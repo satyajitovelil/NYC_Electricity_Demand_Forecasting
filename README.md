@@ -12,7 +12,9 @@ The above questions demonstrate rapid-prototypying and backetesting of ML algori
 
 ## File Descriptions
 The notebook titled Download_Data that deals with fetching data from Azure OpenDatasets; a modified version of this [notebook](https://github.com/Azure/OpenDatasetsNotebooks/blob/master/tutorials/energy-join/01-energy-join-weather-in-pandas.ipynb).
-The notebook titled NYC_Electricity_Demand_Forecasting showcases my work and tries to answer the questions posed above. Some markdown cells peppered throughout the notebook explain the role of each section while a dicstring is written for some of the functions used.
+[source of data](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build/html/nyc_energy.csv)
+
+The notebook titled NYC_Electricity_Demand_Forecasting showcases my work and tries to answer the questions posed above. Some markdown cells peppered throughout the notebook explain the role of each section while a docstring is written for some of the functions used.
 
 ## Licensing, Authors, Acknowledgements, etc.
 Acknowledgement should go to [Azure Open Datasets](https://azure.microsoft.com/en-us/products/open-datasets) for providing the dataset. Acknowledgement should also go to [Kishan Manani](https://github.com/trainindata/feature-engineering-for-time-series-forecasting) for their through explanation of feature engineering for time series forecasting.
