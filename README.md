@@ -11,10 +11,20 @@ For this Project I wanted to analyze the NYC electricity demand enriched using N
 The above questions demonstrate rapid-prototypying and backetesting of ML algorithms for use in electrcicity demand forecasting. This helps businesses optimise resource utilisation and efficient usage of energy. An example of the use of such optimisation could be found in scheduling electrcicty supply by electrcicty regulators\operators\retailers.
 
 ## File Descriptions
-The notebook titled Download_Data that deals with fetching data from Azure OpenDatasets; a modified version of this [notebook](https://github.com/Azure/OpenDatasetsNotebooks/blob/master/tutorials/energy-join/01-energy-join-weather-in-pandas.ipynb).
-[source of data](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build/html/nyc_energy.csv)
+- The notebook titled Download_Data that deals with fetching data from Azure OpenDatasets; a modified version of this [notebook](https://github.com/Azure/OpenDatasetsNotebooks/blob/master/tutorials/energy-join/01-energy-join-weather-in-pandas.ipynb).
+- [source of data](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build/html/nyc_energy.csv)
 
 The notebook titled NYC_Electricity_Demand_Forecasting showcases my work and tries to answer the questions posed above. Some markdown cells peppered throughout the notebook explain the role of each section while a docstring is written for some of the functions used.
 
+## Installations
+- numpy= 1.23.5
+- pandas = 1.5.3
+- statsmodels = 0.13.5
+- skforecast = 0.6.0
+- seaborn = 0.12.2
+- matplotlib = 3.6.3
+- azureml-opendatasets = 1.49.0
+
 ## Licensing, Authors, Acknowledgements, etc.
 Acknowledgement should go to [Azure Open Datasets](https://azure.microsoft.com/en-us/products/open-datasets) for providing the dataset. Acknowledgement should also go to [Kishan Manani](https://github.com/trainindata/feature-engineering-for-time-series-forecasting) for their through explanation of feature engineering for time series forecasting.
+[TS-2: Linear Vision](https://www.kaggle.com/code/konradb/ts-2-linear-vision#Beyond-ARMA) by Kaggle Grandmaster KONRAD BANACHEWICZ
