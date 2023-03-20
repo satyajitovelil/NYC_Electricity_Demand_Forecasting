@@ -24,7 +24,9 @@ The notebook titled NYC_Electricity_Demand_Forecasting showcases my work and tri
 - seaborn = 0.12.2
 - matplotlib = 3.6.3
 - azureml-opendatasets = 1.49.0
+- changepoint-cython = 0.1.3
 
 ## Licensing, Authors, Acknowledgements, etc.
-Acknowledgement should go to [Azure Open Datasets](https://azure.microsoft.com/en-us/products/open-datasets) for providing the dataset. Acknowledgement should also go to [Kishan Manani](https://github.com/trainindata/feature-engineering-for-time-series-forecasting) for their through explanation of feature engineering for time series forecasting.
-[TS-2: Linear Vision](https://www.kaggle.com/code/konradb/ts-2-linear-vision#Beyond-ARMA) by Kaggle Grandmaster KONRAD BANACHEWICZ
+- [Azure Open Datasets](https://azure.microsoft.com/en-us/products/open-datasets) for providing the dataset. 
+- [Kishan Manani](https://github.com/trainindata/feature-engineering-for-time-series-forecasting) for their through explanation of feature engineering for time series forecasting.
+- [TS-2: Linear Vision](https://www.kaggle.com/code/konradb/ts-2-linear-vision#Beyond-ARMA) by Kaggle Grandmaster KONRAD BANACHEWICZ
