@@ -10,6 +10,8 @@ For this Project I wanted to analyze the NYC electricity demand enriched using N
 
 The above questions demonstrate rapid-prototypying and backetesting of ML algorithms for use in electrcicity demand forecasting. This helps businesses optimise resource utilisation and efficient usage of energy. An example of the use of such optimisation could be found in scheduling electrcicty supply by electrcicty regulators\operators\retailers.
 
+I have also written about this in my blog [here](https://satyajitovelil.github.io/posts/nyc-electricity-demand-forecasting/).
+
 ## File Descriptions
 - The notebook titled Download_Data that deals with fetching data from Azure OpenDatasets; a modified version of this [notebook](https://github.com/Azure/OpenDatasetsNotebooks/blob/master/tutorials/energy-join/01-energy-join-weather-in-pandas.ipynb).
 - [source of data](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build/html/nyc_energy.csv)
