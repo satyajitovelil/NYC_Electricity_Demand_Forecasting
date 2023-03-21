@@ -16,7 +16,7 @@ I have also written about this in my blog [here](https://satyajitovelil.github.i
 - The notebook titled Download_Data that deals with fetching data from Azure OpenDatasets; a modified version of this [notebook](https://github.com/Azure/OpenDatasetsNotebooks/blob/master/tutorials/energy-join/01-energy-join-weather-in-pandas.ipynb).
 - [source of data](https://notebooks.azure.com/frlazzeri/projects/automatedml-ms-build/html/nyc_energy.csv)
 
-The notebook titled NYC_Electricity_Demand_Forecasting showcases my work and tries to answer the questions posed above. Some markdown cells peppered throughout the notebook explain the role of each section while a docstring is written for some of the functions used.
+The notebook titled [NYC_Electricity_Demand_Forecasting](https://github.com/satyajitovelil/NYC_Electricity_Demand_Forecasting/blob/master/NYC_Electricity_Demand_Forecasting.ipynb) showcases my work and tries to answer the questions posed above. Some markdown cells peppered throughout the notebook explain the role of each section while a docstring is written for some of the functions used.
 
 ## Installations
 - numpy= 1.23.5
