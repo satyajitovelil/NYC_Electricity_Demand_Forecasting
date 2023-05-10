@@ -8,7 +8,7 @@ For this Project I wanted to analyze the NYC electricity demand enriched using N
 - How viable are traditional ML algorithms in forecasting Day Ahead Elctricity Demand?
 - How important are NYC Weather Variables as predictors to forecast energy\electricity demand?
 
-The above questions demonstrate rapid-prototypying and backetesting of ML algorithms for use in electrcicity demand forecasting. This helps businesses optimise resource utilisation and efficient usage of energy. An example of the use of such optimisation could be found in scheduling electrcicty supply by electrcicty regulators\operators\retailers.
+The above questions demonstrate rapid-prototypying and backtesting of ML algorithms for use in electricity demand forecasting. This helps businesses optimise resource utilisation and efficient usage of energy. An example of the use of such optimisation could be found in scheduling electricity supply by electricity regulators\operators\retailers.
 
 I have also written about this in my blog [here](https://satyajitovelil.github.io/posts/nyc-electricity-demand-forecasting/).
 
